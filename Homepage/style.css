@@ -1,0 +1,151 @@
+.contbk
+{
+  background:url(shutterstock_348320018.png);
+  max-width:1366px;
+  height:480px;
+  background-repeat: no-repeat;
+  background-size:cover;
+  
+}
+.contbk2
+{
+  background:#fbfbfb;
+  height:auto;
+  width:1366px;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.bck3
+{
+  max-width:1366px;
+  height:100px;
+  background-color:#fbfbfb;
+  background-size: cover;
+}
+.btton1
+{
+  font-family: Arial, Helvetica, sans-serif;
+  color:#fbfbfb;
+  font-size: large;
+  text-decoration: none;
+  display:inline-block;
+  margin-right: 24px;
+  font-weight:bold;
+  padding-top: 8px;
+  
+}
+.btton2
+{
+ display: flex;
+  justify-content: flex-end;
+  
+  
+}
+.Ellipse {
+  width: 147px;
+  height: 147px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:20px;
+  border: solid 1px #707070;
+  background-color: #ffffff;
+  border-radius: 50%;
+  display: block; 
+}
+.E
+{
+color: red;
+font-size: 78px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+display: block;
+padding-top: 10px;
+    padding-left: 44px;
+}
+
+.text2
+{
+  padding-left: 80px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.text1
+{
+  color: #192f60;
+}
+.rectangle
+{
+  height: auto;
+  background-color: #fbfbfb;
+  box-shadow: 0 3px 5px 0 #a19b9b;
+}
+.text3
+{
+  margin-right: 17px;
+  margin-top:20px;
+}
+.square {
+  width: 160px;
+  height: 159.9px;
+  object-fit:cover;
+}
+
+.text5
+{
+  display:inline-block;
+  height: 159.9px;
+  vertical-align: top;
+  object-fit:cover;
+  
+}
+.Breakfast {
+  color: #192f60;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  
+}
+.text6
+{
+  font-size:14px;
+}
+.Starty{
+  width: 137px;
+  height: 62px;
+  margin: 4px 0 44px 29px;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8c96ab;
+  display: inline-block;
+}
+.Rectangle-2 {
+  max-width: 245px;
+  height: 48px;
+  
+  padding: 21px 33px 18px 23px;
+  background-color: #ffffff;
+  position: relative;
+}
+.rectangle3
+{
+  max-width: 350px;
+  height:48px;
+  position: relative;
+
+}
+.nopadding {
+  
+  padding:0;
+  
+  margin-bottom:8;
+}
